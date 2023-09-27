@@ -20,6 +20,10 @@
 }
 
 
+.logo img {
+  max-height: 40px; /* Set the max height for your logo */
+  margin-left: 60px;
+}
 
 }
 .wrapper{
