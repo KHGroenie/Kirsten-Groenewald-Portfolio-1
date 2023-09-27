@@ -25,10 +25,9 @@
   padding: 10px; /* Add padding as needed */
 }
 
-.logo {
+.logo img {
   max-height: 40px; /* Set the max height for your logo */
   margin-left: 60px;
-  margin-top: 60px;	
 }
 
 .navbar-toggle {
