@@ -18,11 +18,22 @@
   display: flex;
   flex-wrap: wrap;
 }
-
+.nav-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center; /* Vertically center the items */
+  padding: 10px; /* Add padding as needed */
+}
 
 .logo img {
   max-height: 40px; /* Set the max height for your logo */
   margin-left: 60px;
+}
+
+.navbar-toggle {
+  background-color: transparent; /* Remove background color from the button */
+  border: none; /* Remove button border */
+}
 }
 
 }
